@@ -23,7 +23,3 @@ StockfishNN is based on the official Stockfish engine. We acknowledge the Stockf
 ## Contribution
 
 Contributions to StockfishNN are welcome. Whether you have suggestions, improvements, or want to collaborate on research, your input is valued. Please feel free to submit pull requests or reach out with your ideas.
-
-## License
-
-StockfishNN is released under the same license as Stockfish. For license details, refer to the LICENSE file in the repository.
