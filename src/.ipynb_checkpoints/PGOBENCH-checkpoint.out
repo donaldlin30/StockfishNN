@@ -1,0 +1,3551 @@
+Stockfish dev-20230929-afe7f4d9 by the Stockfish developers (see AUTHORS file)
+
+Position: 1/48 (rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1)
+info string NNUE evaluation using nn-0000000000a0.nnue
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove c2c3 currmovenumber 3
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove d2d3 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove e2e3 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove f2f3 currmovenumber 6
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove g2g3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove h2h3 currmovenumber 8
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove a2a4 currmovenumber 9
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove b2b4 currmovenumber 10
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove c2c4 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove d2d4 currmovenumber 12
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove e2e4 currmovenumber 13
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove f2f4 currmovenumber 14
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove g2g4 currmovenumber 15
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove h2h4 currmovenumber 16
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove b1a3 currmovenumber 17
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove b1c3 currmovenumber 18
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove g1f3 currmovenumber 19
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 currmove g1h3 currmovenumber 20
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 1 seldepth 1 multipv 1 score cp 0 nodes 20 nps 0 hashfull 0 tbhits 0 time 30653 pv g1h3
+info depth 2 currmove g1h3 currmovenumber 1
+info depth 2 currmove c2c3 currmovenumber 2
+info depth 2 currmove d2d3 currmovenumber 3
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove e2e3 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove f2f3 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove g2g3 currmovenumber 6
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove h2h3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove a2a4 currmovenumber 8
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove c2c4 currmovenumber 9
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove d2d4 currmovenumber 10
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 seldepth 2 multipv 1 score cp 2 lowerbound nodes 70 nps 0 hashfull 0 tbhits 0 time 89096 pv d2d4
+info depth 1 currmove d2d4 currmovenumber 1
+info depth 1 currmove g1h3 currmovenumber 2
+info depth 1 currmove e2e4 currmovenumber 3
+info depth 1 currmove f2f4 currmovenumber 4
+info depth 1 currmove h2h4 currmovenumber 5
+info depth 1 currmove b1a3 currmovenumber 6
+info depth 1 currmove b1c3 currmovenumber 7
+info depth 1 currmove g1f3 currmovenumber 8
+info depth 1 currmove a2a3 currmovenumber 9
+info depth 1 currmove b2b3 currmovenumber 10
+info depth 1 currmove b2b4 currmovenumber 11
+info depth 1 currmove g2g4 currmovenumber 12
+info depth 1 currmove d2d3 currmovenumber 13
+info depth 1 currmove f2f3 currmovenumber 14
+info depth 1 currmove g2g3 currmovenumber 15
+info depth 1 currmove c2c3 currmovenumber 16
+info depth 1 currmove a2a4 currmovenumber 17
+info depth 1 currmove e2e3 currmovenumber 18
+info depth 1 currmove h2h3 currmovenumber 19
+info depth 1 currmove c2c4 currmovenumber 20
+info depth 2 seldepth 2 multipv 1 score cp 10 nodes 90 nps 1 hashfull 0 tbhits 0 time 89096 pv d2d4
+info depth 3 currmove d2d4 currmovenumber 1
+info depth 3 seldepth 2 multipv 1 score cp 8 lowerbound nodes 91 nps 1 hashfull 0 tbhits 0 time 89096 pv d2d4
+info depth 2 currmove d2d4 currmovenumber 1
+info depth 2 currmove g1h3 currmovenumber 2
+info depth 2 currmove e2e4 currmovenumber 3
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove f2f4 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove h2h4 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove b1a3 currmovenumber 6
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove b1c3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove g1f3 currmovenumber 8
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove a2a3 currmovenumber 9
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove b2b3 currmovenumber 10
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove b2b4 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove g2g4 currmovenumber 12
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove d2d3 currmovenumber 13
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove f2f3 currmovenumber 14
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove g2g3 currmovenumber 15
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove c2c3 currmovenumber 16
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove a2a4 currmovenumber 17
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove e2e3 currmovenumber 18
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove c2c4 currmovenumber 19
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 2 currmove h2h3 currmovenumber 20
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 3 seldepth 2 multipv 1 score cp 10 nodes 138 nps 1 hashfull 0 tbhits 0 time 118208 pv d2d4
+info depth 4 currmove d2d4 currmovenumber 1
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 4 seldepth 2 multipv 1 score cp 12 lowerbound nodes 140 nps 1 hashfull 0 tbhits 0 time 119734 pv d2d4
+info depth 3 currmove d2d4 currmovenumber 1
+info depth 1 currmove g1h3 currmovenumber 2
+info depth 1 currmove b1a3 currmovenumber 3
+info depth 1 currmove g2g4 currmovenumber 4
+info depth 1 currmove f2f4 currmovenumber 5
+info depth 1 currmove b2b4 currmovenumber 6
+info depth 1 currmove b2b3 currmovenumber 7
+info depth 1 currmove h2h4 currmovenumber 8
+info depth 1 currmove a2a3 currmovenumber 9
+info depth 1 currmove b1c3 currmovenumber 10
+info depth 1 currmove e2e4 currmovenumber 11
+info depth 1 currmove g1f3 currmovenumber 12
+info depth 1 currmove d2d3 currmovenumber 13
+info depth 1 currmove f2f3 currmovenumber 14
+info depth 1 currmove c2c3 currmovenumber 15
+info depth 1 currmove g2g3 currmovenumber 16
+info depth 1 currmove a2a4 currmovenumber 17
+info depth 1 currmove e2e3 currmovenumber 18
+info depth 1 currmove h2h3 currmovenumber 19
+info depth 1 currmove c2c4 currmovenumber 20
+info depth 4 seldepth 2 multipv 1 score cp 16 nodes 160 nps 1 hashfull 0 tbhits 0 time 119734 pv d2d4
+info depth 5 currmove d2d4 currmovenumber 1
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g1h3 currmovenumber 2
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b1a3 currmovenumber 3
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g2g4 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove f2f4 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b2b4 currmovenumber 6
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b2b3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove h2h4 currmovenumber 8
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove a2a3 currmovenumber 9
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b1c3 currmovenumber 10
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove e2e4 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g1f3 currmovenumber 12
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove d2d3 currmovenumber 13
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove f2f3 currmovenumber 14
+info depth 5 currmove c2c3 currmovenumber 15
+info depth 5 currmove g2g3 currmovenumber 16
+info depth 5 currmove a2a4 currmovenumber 17
+info depth 5 currmove e2e3 currmovenumber 18
+info depth 5 currmove h2h3 currmovenumber 19
+info depth 5 currmove c2c4 currmovenumber 20
+info depth 5 seldepth 3 multipv 1 score cp 12 upperbound nodes 311 nps 1 hashfull 0 tbhits 0 time 287844 pv d2d4 h7h5
+info depth 5 currmove d2d4 currmovenumber 1
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g1h3 currmovenumber 2
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b1a3 currmovenumber 3
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g2g4 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b2b4 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove f2f4 currmovenumber 6
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b2b3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove d2d3 currmovenumber 8
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove f2f3 currmovenumber 9
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove h2h4 currmovenumber 10
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove c2c3 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove a2a3 currmovenumber 12
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove a2a4 currmovenumber 13
+info depth 5 currmove g2g3 currmovenumber 14
+info depth 5 currmove b1c3 currmovenumber 15
+info depth 5 currmove e2e3 currmovenumber 16
+info depth 5 currmove e2e4 currmovenumber 17
+info depth 5 currmove g1f3 currmovenumber 18
+info depth 5 currmove c2c4 currmovenumber 19
+info depth 5 currmove h2h3 currmovenumber 20
+info depth 5 seldepth 3 multipv 1 score cp 9 upperbound nodes 396 nps 1 hashfull 0 tbhits 0 time 359556 pv d2d4 h7h5
+info depth 5 currmove d2d4 currmovenumber 1
+info depth 5 currmove g1h3 currmovenumber 2
+info depth 5 currmove g2g4 currmovenumber 3
+info depth 5 currmove b1a3 currmovenumber 4
+info depth 5 currmove b2b4 currmovenumber 5
+info depth 5 currmove f2f4 currmovenumber 6
+info depth 5 currmove b2b3 currmovenumber 7
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove g2g3 currmovenumber 8
+info depth 5 currmove d2d3 currmovenumber 9
+info depth 5 currmove f2f3 currmovenumber 10
+info depth 5 currmove b1c3 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove e2e3 currmovenumber 12
+info depth 5 currmove c2c3 currmovenumber 13
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove h2h4 currmovenumber 14
+info depth 5 currmove a2a4 currmovenumber 15
+info depth 5 currmove a2a3 currmovenumber 16
+info depth 5 currmove g1f3 currmovenumber 17
+info depth 5 currmove e2e4 currmovenumber 18
+info depth 5 currmove c2c4 currmovenumber 19
+info depth 5 currmove h2h3 currmovenumber 20
+info depth 5 seldepth 3 multipv 1 score cp 5 upperbound nodes 470 nps 1 hashfull 0 tbhits 0 time 379293 pv d2d4 h7h5
+info depth 5 currmove d2d4 currmovenumber 1
+info depth 5 currmove g1h3 currmovenumber 2
+info depth 5 currmove g2g4 currmovenumber 3
+info depth 5 currmove b1a3 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove b2b4 currmovenumber 5
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove f2f4 currmovenumber 6
+info depth 5 currmove d2d3 currmovenumber 7
+info depth 5 currmove f2f3 currmovenumber 8
+info depth 5 currmove b2b3 currmovenumber 9
+info depth 5 currmove a2a4 currmovenumber 10
+info depth 5 currmove g2g3 currmovenumber 11
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove a2a3 currmovenumber 12
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 5 currmove e2e3 currmovenumber 13
+info depth 5 currmove c2c3 currmovenumber 14
+info depth 5 currmove b1c3 currmovenumber 15
+info depth 5 currmove h2h4 currmovenumber 16
+info depth 5 currmove c2c4 currmovenumber 17
+info depth 5 currmove h2h3 currmovenumber 18
+info depth 5 currmove g1f3 currmovenumber 19
+info depth 5 currmove e2e4 currmovenumber 20
+info depth 5 seldepth 3 multipv 1 score cp 0 upperbound nodes 539 nps 1 hashfull 0 tbhits 0 time 405515 pv d2d4 h7h5
+info depth 5 currmove d2d4 currmovenumber 1
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 3 currmove g1h3 currmovenumber 2
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 3 currmove b1a3 currmovenumber 3
+info depth 3 currmove g2g4 currmovenumber 4
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+info depth 3 currmove f2f3 currmovenumber 5
+info depth 3 currmove b2b3 currmovenumber 6
+info depth 3 currmove b2b4 currmovenumber 7
+info depth 3 currmove f2f4 currmovenumber 8
+info depth 3 currmove d2d3 currmovenumber 9
+info depth 3 currmove c2c3 currmovenumber 10
+info depth 3 currmove a2a3 currmovenumber 11
+info depth 3 currmove b1c3 currmovenumber 12
+info depth 3 currmove a2a4 currmovenumber 13
+info depth 3 currmove c2c4 currmovenumber 14
+info depth 3 currmove g2g3 currmovenumber 15
+info depth 3 currmove h2h3 currmovenumber 16
+info depth 3 currmove e2e3 currmovenumber 17
+info depth 3 currmove h2h4 currmovenumber 18
+info depth 3 currmove g1f3 currmovenumber 19
+info depth 3 currmove e2e4 currmovenumber 20
+info depth 5 seldepth 3 multipv 1 score cp -5 nodes 583 nps 1 hashfull 0 tbhits 0 time 425589 pv d2d4 h7h5 e1d2
+info depth 6 currmove d2d4 currmovenumber 1
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
+Creating backend [cudnn-auto]...
+Switching to [cudnn-fp16]...
+Network format not supported by CuDNN backend, switching to CUDA.
+Creating backend [cuda-fp16]...
+CUDA Runtime version: 12.1.0
+Latest version of CUDA supported by the driver: 12.2.0
+GPU: Quadro RTX 5000
+GPU memory: 14.7456 Gb
+GPU clock frequency: 1815 MHz
+GPU compute capability: 7.5
+L2 cache capacity: 4194304
